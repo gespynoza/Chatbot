@@ -6,13 +6,14 @@ Las principales librerías que se utilizan en este proyecto son:
 -openai para interactuar con GPT-3
 -wolframalpha para interactuar con Wolfram Alpha
 -gradio para crear la interfaz de usuario
-# Configuración de la API
+
+## Configuración de la API
 Para utilizar este proyecto, necesitarás las claves de la API de OpenAI y Wolfram Alpha. Puedes obtener estas claves registrándote en los respectivos servicios.
 
-<h1> OpenAI <h1>
+## OpenAI 
 Crea una cuenta en OpenAI y guarda la clave de la API. Asegúrate de guardarla en un lugar seguro y no compartirla con nadie. Puedes establecer la clave de la API en tu entorno como variable de entorno OPENAI_API_KEY.
 
-Wolfram Alpha
+## Wolfram Alpha
 Crea una cuenta en Wolfram Alpha y obtén tu clave de la API. Asegúrate de guardarla en un lugar seguro y no compartirla con nadie. Puedes establecer la clave de la API en tu entorno como variable de entorno WOLFRAM_API_KEY.
 
 
